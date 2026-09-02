@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Athul S 👋
 
-<!--
-**athuls-engineer/athuls-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronics & Communication Engineering Undergraduate** @ Amrita Vishwa Vidyapeetham ('26)  
+Focusing on **Embedded Systems, IoT Telemetry, FPGA/Digital Design, and Edge AI**.
 
-Here are some ideas to get you started:
+🌐 **Portfolio Website**: [athuls-engineer.github.io](https://athuls-engineer.github.io)  
+💼 **LinkedIn**: [linkedin.com/in/athul-s-engineer](https://www.linkedin.com/in/athul-s-engineer)  
+📧 **Email**: athuls2580@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Competencies & Toolchain
+- **Firmware & Microcontrollers**: Embedded C, FreeRTOS, ESP32, ESP8266, ATmega328P, Arduino IDE, Keil µVision
+- **Digital Logic & FPGA**: Verilog HDL, FSM Design, Basys 3 (Artix-7), Vivado, ModelSim
+- **RF & Hardware Design**: Ansys HFSS (Antenna Design, S11, Radiation Patterns), PCB Schematic review
+- **Protocols & Industrial**: Modbus (RTU/TCP), SCADA, TCP/IP, IEC 60870, MQTT, I2C, SPI, UART
+- **Software & Vision**: Python, OpenCV (CLAHE, HOG, Haar Cascades), MATLAB, React Native, Firebase
+
+---
+
+### 🚀 Featured Engineering Projects
+- 🚌 **[Chakraa Bus Tracking](https://github.com/athuls-engineer/chakraa-smart-bus-tracking-system)**: Real-time transit GPS tracking with ESP32, Firebase listeners, and React Native.
+- 🛡️ **[EdgeVision IoT](https://github.com/athuls-engineer/edgevision-iot)**: Edge AI intrusion detection with OpenCV CLAHE enhancement, HOG detection, and Telegram alert telemetry.
+- 📟 **[Basys 3 FPGA Vending Machine](https://github.com/athuls-engineer/fpga-vending-machine)**: FSM-driven digital controller with debounced coin inputs and 7-segment display driver.
