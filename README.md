@@ -21,4 +21,4 @@ Focusing on **Embedded Systems, IoT Telemetry, FPGA/Digital Design, and Edge AI*
 ### 🚀 Featured Engineering Projects
 - 🚌 **[Chakraa Bus Tracking](https://github.com/athuls-engineer/chakraa-smart-bus-tracking-system)**: Real-time transit GPS tracking with ESP32, Firebase listeners, and React Native.
 - 🛡️ **[EdgeVision IoT](https://github.com/athuls-engineer/edgevision-iot)**: Edge AI intrusion detection with OpenCV CLAHE enhancement, HOG detection, and Telegram alert telemetry.
-- 📟 **[Basys 3 FPGA Vending Machine](https://github.com/athuls-engineer/fpga-vending-machine)**: FSM-driven digital controller with debounced coin inputs and 7-segment display driver.
+- 🌐 **[Engineering Portfolio Website](https://github.com/athuls-engineer/athuls-engineer.github.io)**: Interactive engineering portfolio showcasing embedded IoT, hardware, and digital design projects ([Live Demo](https://athuls-engineer.github.io)).
