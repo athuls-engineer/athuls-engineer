@@ -10,7 +10,7 @@ Specializing in **Embedded Firmware, Connected IoT Telemetry, and Edge AI System
 ---
 
 ### 🛠️ Core Competencies & Toolchain
-- **Firmware & Microcontrollers**: Embedded C, C++, FreeRTOS, ESP32, ESP8266, ATmega328P, Arduino IDE, Keil µVision, Hardware Timers, ADC, UART, SPI, I2C
+- **Firmware & Microcontrollers**: Embedded C, FreeRTOS, ESP32, ESP8266, ATmega328P, Arduino IDE, Keil µVision, Hardware Timers, ADC, UART, SPI, I2C
 - **Connected IoT & Telematics**: MQTT, WebSocket Listeners, GPS Telemetry (Neo-6M), Firebase Realtime DB, Modbus (RTU/TCP), TCP/IP, SCADA
 - **Edge AI & Computer Vision**: Python 3, OpenCV (Adaptive CLAHE, HOG Pedestrian Detection, Haar Cascades), FastAPI, Telegram Bot API
 - **Hardware & RF Prototyping**: Circuit breadboarding, Sensor interfacing (LM35, ultrasonic, Hall-effect), Ansys HFSS simulation
