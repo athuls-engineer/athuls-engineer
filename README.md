@@ -31,7 +31,7 @@ I believe in honest, modern software development. I pair program with **Google G
 - 🛡️ **[AegisGuard Android](https://github.com/athuls-engineer/aegisguard-android)** *(Co-built with Gemini)*  
   Local DNS sinkhole and ad blocker for Android utilizing native `VpnService` packet inspection — zero root required.
 
-- 🚌 **[Chakraa — Smart Bus Tracking & Telematics](https://github.com/athuls-engineer/chakraa-smart-bus-tracking-system)** *(Co-built with Gemini)*  
+- 🚌 **[Chakraa — Smart Bus Tracking & Telematics](https://github.com/athuls-engineer/chakraa-smart-bus-tracking-system)** *(Final Year B.Tech Capstone Project, Amrita Vishwa Vidyapeetham)*  
   Full-stack IoT transit tracking platform integrating ESP32 GPS telematics (Neo-6M via UART2), Firebase Realtime Database, and React Native.
 
 - 👁️ **[EdgeVision IoT](https://github.com/athuls-engineer/edgevision-iot)** *(Co-built with Gemini)*  
